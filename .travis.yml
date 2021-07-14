@@ -1,6 +1,8 @@
 language: node_js
+sudo: required
+services:
+  - xvfb
 before_install:
-  - "export DISPLAY=:99.0"
-  - "sh -e /etc/init.d/xvfb start"
+  - export DISPLAY=:99.0
 node_js:
-  - 'node'
+  - node

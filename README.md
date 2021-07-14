@@ -1,5 +1,5 @@
 
-# Jasmine [![Build Status](https://travis-ci.org/vit10load/jasmine-automated.svg?branch=master)](https://travis-ci.org/vit10load/jasmine-automated)
+# Jasmine [![Build Status](https://travis-ci.com/vit10load/jasmine-automated.svg?branch=master)](https://travis-ci.com/vit10load/jasmine-automated)
 
 Jasmine is a Framework that generates tests data for you. Whether you need execute more than
 one test in real time, so using karma library for this.
